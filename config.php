@@ -1,5 +1,5 @@
 <?php
-define('APIKEY', AIzaSyBksb4F5eR-_JoxBXhGL_bJcRQz1b3F7_U ');
+define('APIKEY', 'AIzaSyCQ5yJckoUur3rYZow-aW4NiMvLd1MCsMY');
 define('GJ_CODE', 'HK');
 define('SITE_NAME', 'ugdu2b4k');
 define('TITLENAME', 'ugdu2b4k');
